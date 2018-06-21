@@ -4,10 +4,10 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: Blog_龙飞
-subtitle: "谦和之中见卓越"
+title: Blog_龙珠超
+subtitle: "人傻钱多"
 description: "郑龙飞的个人博客"
-keywords: java, longfeizheng, longfei
+keywords: java, longchaozheng, longchao
 favicon: /favicon.ico
 timezone: Asia/BeiJing
 encoding: "utf-8"
@@ -16,12 +16,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 郑龙飞
-organization: ZiHeXin, Inc.
-organization_url: https://www.zihexin.net/
-github_username: longfeizheng
+author: 郑龙超
+organization: RongZhiTong, Inc.
+organization_url: http://www.rongzhitong.com/
+github_username: niocoder
 location: Beijing, China
-email: i@merryyou.cn
+email: zhenglc0103@163.com
 
 # ---------------- #
 #    Navigation    #
